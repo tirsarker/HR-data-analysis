@@ -1,0 +1,1 @@
+HR data CSV contains the raw HR data. I used SQL to find insights about the company. "hr_query" contains the sql queries. "hr data analysis" contains the resulting dashboard (both in powerbi and pdf forms).
